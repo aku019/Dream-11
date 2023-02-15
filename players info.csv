@@ -1,0 +1,23 @@
+player id,team id,type,did play,did bat,did bowl,runs scorred,bowls played,boundary,sixes,bowls bowled,runs concceded,wickets,bowl/lbw,maiden,catch,stumping,direct ro,non direct ro,isNotOut
+1,1,All,yes,yes,yes,25,31,2,0,12,11,1,1,0,2,0,1,0,yes
+2,1,bat,yes,yes,No,34,21,3,1,0,0,0,0,0,1,0,0,0,No
+3,1,bowl,yes,yes,yes,64,36,5,2,24,42,3,1,0,1,0,1,1,yes
+4,1,wk,yes,yes,No,34,21,3,1,0,0,0,0,0,1,1,0,0,No
+6,1,All,yes,no,yes,0,0,0,0,13,31,0,0,0,0,0,0,0,no
+7,1,bat,yes,yes,no,0,12,0,0,0,0,0,0,0,0,0,0,0,yes
+8,1,all,yes,no,yes,0,0,0,0,24,23,1,0,0,2,0,0,0,no
+9,1,bat,yes,yes,no,35,21,4,1,0,0,0,0,0,0,0,0,0,yes
+10,1,bowl,yes,no,yes,0,0,0,0,21,54,1,0,0,0,0,0,0,no
+11,1,bat,yes,yes,no,34,23,3,1,0,0,0,0,0,0,0,0,0,yes
+12,2,all,yes,no,yes,0,0,0,0,18,11,0,0,0,0,0,0,0,no
+13,2,wk,yes,yes,no,67,36,8,5,0,0,0,0,0,0,0,0,0,no
+14,2,all,yes,no,yes,0,0,0,0,18,23,1,0,0,0,0,0,0,no
+15,2,bat,yes,yes,yes,56,33,4,2,0,0,0,0,0,0,0,0,0,no
+16,2,bowl,yes,no,yes,0,0,0,0,6,11,2,0,0,0,0,0,0,no
+17,2,wk,yes,yes,no,2,3,0,0,0,0,0,0,0,0,0,0,0,no
+18,2,bat,yes,no,no,0,0,0,0,24,56,0,0,0,0,0,0,0,no
+19,2,bowl,yes,yes,yes,23,19,2,0,0,0,0,0,0,0,0,0,0,no
+20,2,all,yes,no,no,0,0,0,0,12,15,2,1,1,0,0,0,0,no
+21,2,bat,yes,yes,no,33,43,1,0,0,0,0,0,0,0,0,0,0,no
+22,2,bowl,yes,no,yes,0,0,0,0,6,3,1,1,0,0,0,0,0,no
+23,2,bowl,no,no,no,0,0,0,0,0,0,0,0,0,2,0,1,0,no
